@@ -1,1 +1,1 @@
-# ai-app
+# Image classifier project
